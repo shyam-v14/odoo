@@ -10,4 +10,7 @@
     <record id="lost_reason_3" model="crm.lost.reason">
         <field name="name">Not enough stock</field>
     </record>
+    <record id="lost_reason_3" model="crm.lost.reason">
+        <field name="name">Not interested</field>
+    </record>
 </data></odoo>
